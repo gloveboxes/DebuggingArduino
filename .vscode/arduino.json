@@ -1,5 +1,0 @@
-{
-    "board": "arduino:samd:mzero_pro_bl_dbg",
-    "port": "COM27",
-    "sketch": "debugging\\Debugging.ino"
-}
